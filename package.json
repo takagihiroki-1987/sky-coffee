@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "http": "^0.0.1-security"
+    "http": "^0.0.1-security",
+    "sass": "^1.62.1"
   }
 }
