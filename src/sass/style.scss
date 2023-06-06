@@ -1,7 +1,7 @@
 $global-color: red;
 $base-color: black;
 
-body {
-  color: $base-color;
-  background-color: $global-color;
+.content {
+  color: $global-color;
+  box-sizing: border-box;
 }

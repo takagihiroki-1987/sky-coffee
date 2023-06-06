@@ -1,6 +1,6 @@
-body {
-  color: black;
-  background-color: red;
+.content {
+  color: red;
+  box-sizing: border-box;
 }
 
 /*# sourceMappingURL=style.css.map */
